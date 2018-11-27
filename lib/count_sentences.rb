@@ -32,7 +32,7 @@ class String
         sentences = []
     end
       sentences.count
-  end
+    end
 end 
-end 
+
   end
