@@ -33,6 +33,4 @@ class String
     end
       sentences.count
     end
-end 
-
-  end
+  end 
