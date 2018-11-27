@@ -29,9 +29,9 @@ class String
   def count_sentences
     if sentences = self.split (/[.!?]+/)
       else 
-        arr = []
-    end 
-    arr.count
+        sentences = []
+    end
+      sentences.count
   end
 end 
 end 
