@@ -34,13 +34,3 @@ class String
       sentences.count
     end
   end
-
- def count_sentences
-     if 
-     arr = self.split(/[?!.]+/)
-    else 
-      arr = []
-    end 
-    arr.count
-  end
-end 
